@@ -5,19 +5,13 @@
 
 `I currently have no idea to put here, so i will follow the defaults suggested by Gihtub`
 
-##### 🔭 I’m currently working on
-- SEDUC - PI
 ##### 🌱 I’m currently learning ...
 - TypeScript
 - Flutter
 - TDD/DDD
 - Dark Mode features in React/Native
-##### 👯 I’m looking to collaborate on ...
-- Social impactful projects
 ##### 🤔 I’m looking for help with ...
 - Some raids in destiny
-##### 💬 Ask me about ...
-- My life and cry with me
 ##### 📫 How to reach me: ...
 - [My Page](https://thejoaov.com)
 - [My LinkedIn profile](https://linkedin.com/in/thejoaov)
