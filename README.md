@@ -49,3 +49,8 @@
 [medium]: https://medium.com/@thejoaov
 [instagram]: https://instagram.com/thejoaov
 [linkedin]: https://linkedin.com/in/thejoaov
+
+
+<!-- INSPIRED BY
+CodeStackr Video: https://www.youtube.com/watch?v=ECuqb5Tv9qI
+--!>
