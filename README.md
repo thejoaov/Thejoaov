@@ -1,7 +1,7 @@
 ### Hi there, I'm João - aka [thejoaov][website] 👋
 
 ## I'm a Husband, Developer, and Gamer!
-- 🔭 I’m currently working
+- 🔭 I’m currently working in @agendakids as Frontend Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking improve my tech and soft skills
 - 🥅 2020 Goals: Stay alive
