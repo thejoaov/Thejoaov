@@ -5,7 +5,11 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking improve my tech and soft skills
 - 🥅 2020 Goals: Stay alive
-- ⚡ Fun facts: I'm currently on Gold tier in lol, trapped there by whole four seasons straight.
+- ⚡ Fun facts: 
+  - I watch a lot of animes, my preferred are JoJo's Bizarre Adventure, Naruto and My Hero Academia ✨
+  - I'm currently on Gold tier in lol, trapped there by whole four seasons straight. 🏅
+  - I'm drummer (sometimes) 🥁
+  - I love astronomy and aviation 🚀
 
 ### Connect with me:
 
