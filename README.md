@@ -1,19 +1,17 @@
 ### Hi there, I'm João - aka [thejoaov][website] 👋
 
 ## I'm a Husband, Developer, and Gamer!
-- 🔭 I’m currently working in [@agendakids](https://github.com/agendakids) as Frontend Mobile Developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking improve my tech and soft skills
-- 🥅 2020 Goals: Stay alive
+- 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as Frontend Mobile Developer
+- 📚 I’m currently learning about react native advanced patterns and techinques, tests in mobile front end and clean code;
+- 👀 I'm also looking to learn in the near future the basics in Ruby (rails) and Flutter
 - ⚡ Fun facts: 
-  - I watch a lot of animes, my favorite anime is My Hero Academia, but i love JoJo's Bizarre Adventure and Naruto too
-  - I'm currently on Gold tier in lol, trapped there by whole four seasons straight. 🏅
-  - I'm drummer (sometimes) 🥁
-  - I love astronomy and aviation 🚀
+  - Some of my favorite anime are Attack on Titan, My Hero Academia, JoJo and Fullmetal Alchemist;
+  - I'm some sort of a gamer, but i'm far from a good one. I like to play Destiny 2 and League of Legends most in my free time;
+  - I also love Astronomy (science in general too) and aviation;
+  - I play drums sometimes;
 
 ### Connect with me:
 
-[<img align="left" alt="thejoaov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="thejoaov | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="thejoaov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thejoaov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -48,7 +46,6 @@
 
 <img align="left" alt="thejoaov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thejoaov&show_icons=true&hide_border=true" />
 
-[website]: https://thejoaov.com
 [twitter]: https://twitter.com/thejoaov
 [medium]: https://medium.com/@thejoaov
 [instagram]: https://instagram.com/thejoaov
