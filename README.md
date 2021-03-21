@@ -1,4 +1,4 @@
-### Hi there, I'm João - aka thejoaov 👋
+### Hi there, I'm João Victor 👋
 
 ## I'm a front end developer, mostly focused in mobile development!
 - 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as **Frontend Mobile Junior Developer**;
