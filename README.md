@@ -2,7 +2,7 @@
 
 ## I'm a front end developer, mostly focused in mobile development!
 - 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as Frontend Mobile Junior Developer
-- 📚 I’m currently learning about react native advanced patterns and techinques, tests in mobile front end and clean code;
+- 📚 I’m currently learning about react native advanced patterns and techniques, tests in mobile front end and clean code;
 - 👀 I'm also looking to learn in the near future the basics in Ruby (rails) and Flutter
 - ⚡ Fun facts: 
   - Some of my favorite anime are Attack on Titan, My Hero Academia, JoJo and Fullmetal Alchemist;
