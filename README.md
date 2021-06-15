@@ -1,7 +1,7 @@
 ### Hi there, I'm João Victor 👋
 
 ## I'm a front end developer, mostly focused in mobile development!
-- 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as _Frontend Mobile Junior Developer_;
+- 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as _Frontend Junior Developer_;
 - 📚 I’m currently learning about react native advanced patterns and techniques, tests in mobile front end and clean code;
 - 👀 I'm also looking to learn in the near future the basics in Ruby (rails) and Flutter;
 - ⚡ Fun facts: 
