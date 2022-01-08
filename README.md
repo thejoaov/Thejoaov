@@ -1,7 +1,7 @@
 ### Hi there, I'm João Victor 👋
 
 ## I'm a front end developer, mostly focused in mobile development!
-- 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as _Frontend Mobile Developer_;
+- 💼 I’m currently working in [@avanade](https://github.com/avanade) as _Frontend Mobile Developer_;
 - 📚 I’m currently learning about flutter, react native advanced patterns and techniques, tests and clean code, the basics of Flutter and native Android;
 ## Fun facts: 
   - Some of my favorite anime are Attack on Titan, My Hero Academia, JoJo and Fullmetal Alchemist (not necessarily in that order);
