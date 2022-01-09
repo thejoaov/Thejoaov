@@ -1,13 +1,18 @@
 ### Hi there, I'm João Victor 👋
 
-## I'm a front end developer, mostly focused in mobile development!
-- 💼 I’m currently working in [@avanade](https://github.com/avanade) as _Frontend Mobile Developer_;
-- 📚 I’m currently learning about flutter, react native advanced patterns and techniques, tests and clean code, the basics of Flutter and native Android;
-## Fun facts: 
-  - Some of my favorite anime are Attack on Titan, My Hero Academia, JoJo and Fullmetal Alchemist (not necessarily in that order);
-  - I'm some sort of a gamer, but i'm far from a good one. I like to play Destiny 2 and Skyrim most in my free time;
-  - I also love Astronomy (science in general too) and aviation;
-  - I play drums sometimes;
+## I'm a front end developer, focused in mobile development
+- 💼 I’m working at [@Avanade](https://github.com/avanade) as _Frontend Mobile Developer_
+- 📚 I’m currently studying React Native advanced topics (refs, custom hooks, turbo modules, new architecture, etc.), tests and clean code
+- 📖 Currently reading: Clean Architecture (Rob. C. Martin) and Monolith to Microservices (Sam Newman)
+
+## Facts about me: 
+  - My favorite anime are JoJo Bizarre Adventures (is that a reference?), Attack on Titan (didn't like the manga ending btw), My Hero Academia, and Fullmetal Alchemist
+  - I like to play RTS, MMO, FPS and Moba. I spent most of my free time on Destiny (+1.5k on steam, main Hunter), LoL (main Support), Halo Infinite, Skyrim, Civ VI, Humankind or Warhammer 3
+  - Ask me (almost) literally everything about TES, Halo, LoL or Destiny lore and i will explain it. For real. I'm that kind of person who dives into game lore.
+  - I love Astronomy, science and Aviation
+  - Sometimes i play drums when i'm bored
+  - I make REALLY good barbecue (my wife can attest this)
+  - Love pets
 
 ### Connect with me:
 
