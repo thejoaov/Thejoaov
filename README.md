@@ -1,7 +1,7 @@
 ### Hi there, I'm João Victor 👋
 
 ## I'm a front end developer, focused in mobile development
-- 💼 I’m working at [@Avanade](https://github.com/avanade) as _Frontend Mobile Developer_
+- 💼 I’m working at [@Avanade](https://github.com/avanade) as _Consultant Frontend Developer_
 - 📚 I’m currently studying React Native advanced topics (refs, custom hooks, turbo modules, new architecture, etc.), tests and clean code
 - 📖 Reading: Clean Architecture (Rob. C. Martin) and Monolith to Microservices (Sam Newman)
 
