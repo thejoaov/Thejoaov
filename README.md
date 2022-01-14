@@ -3,7 +3,9 @@
 ## I'm a front end developer, focused in mobile development
 - 💼 I’m working at [@Avanade](https://github.com/avanade) as _Consultant Frontend Developer_
 - 📚 I’m currently studying React Native advanced topics (refs, custom hooks, turbo modules, new architecture, etc.), tests and clean code
-- 📖 Reading: Clean Architecture (Rob. C. Martin) and Monolith to Microservices (Sam Newman)
+- 📖 Reading: 
+  - Currently: Clean Architecture (Rob. C. Martin) and Monolith to Microservices (Sam Newman)
+  - Next: Design Patterns (Erich Gamma), Domain Driven Design (Eric Evans)
 
 ## Facts about me: 
   - My favorite anime are JoJo Bizarre Adventures (is that a reference?), Attack on Titan (didn't like the manga ending btw), My Hero Academia, and Fullmetal Alchemist
