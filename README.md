@@ -1,6 +1,5 @@
-### Hi there, i'm João Victor 👋
-
-- 💼 I’m working at [@Avanade](https://github.com/avanade) as _Front-End Consultant Developer_
+## 👋 Hi! I'm João Victor!
+-  💼 I’m working at [@Avanade](https://github.com/avanade) as _Front-End Consultant Developer_
 - 📚 Currently studying React Native advanced topics (refs, custom hooks, turbo modules, new architecture, etc.), tests and clean code
 - 📖 Reading: 
   - Currently: Clean Architecture (Rob. C. Martin) and Monolith to Microservices (Sam Newman)
