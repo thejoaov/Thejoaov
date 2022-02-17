@@ -12,18 +12,7 @@
 [<img align="left" alt="thejoaov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thejoaov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-<br />
-
----
-
 [linkedin]: https://linkedin.com/in/thejoaov
 [medium]: https://medium.com/@thejoaov
 [instagram]: https://instagram.com/thejoaov
 [twitter]: https://twitter.com/thejoaov
-
-
-<!-- INSPIRED BY
-CodeStackr Video: https://www.youtube.com/watch?v=ECuqb5Tv9qI
---!>
