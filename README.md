@@ -1,9 +1,10 @@
 ## 👋 Hi! I'm João Victor!
 -  💼 I’m working at [@Avanade](https://github.com/avanade) as _Front-End Consultant Developer_
-- 📚 Currently studying React Native advanced topics (refs, custom hooks, turbo modules, new architecture, etc.), tests and clean code
-- 📖 Reading: 
-  - Currently: Clean Architecture (Rob. C. Martin) and Monolith to Microservices (Sam Newman)
-  - Next: Design Patterns (Erich Gamma), Domain Driven Design (Eric Evans)
+- 📚 Currently studying:
+  - React refs, custom hooks, 
+  - React native turbo modules, new architecture
+  - Design Systems 
+  - Building react native component libraries
 
 ### Connect with me:
 [<img align="left" alt="thejoaov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
