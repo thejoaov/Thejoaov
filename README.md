@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm João Victor!
--  💼 I’m working at [@Avanade](https://www.avanade.com/pt-br/) as _Front-End Consultant Developer_
+-  💼 I’m working at [Avanade](https://www.avanade.com/pt-br/) as _Front-End Consultant Developer_
 - 📚 Currently studying:
   - React refs, custom hooks
   - React native turbo modules, new architecture
