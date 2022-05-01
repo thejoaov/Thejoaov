@@ -7,8 +7,8 @@ Mobile Front End Developer
 I've been learning to code since i was a kid, but after i started my college i found a passion for front end development, and sice then, i started doing a lot of things with javascript, python and recently, typescript.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [my linkedin profile](http://linkedin.com/in/thejoaov)
-* 🚀  I'm currently working on [Gym Tracker](http://https://play.google.com/store/apps/details?id=com.thejoaov.gymtracker)
+* 🖥️  See my portfolio at [my linkedin profile](https://linkedin.com/in/thejoaov)
+* 🚀  I'm currently working on [Gym Tracker](https://play.google.com/store/apps/details?id=com.thejoaov.gymtracker)
 * 🧠  I'm learning Flutter, Typescript and React Native's new architecture
 * ⚡  I had bitten by a radioactive spider, and since then, my life changed a bit...
 
