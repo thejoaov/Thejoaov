@@ -8,7 +8,7 @@ I've been learning to code since i was a kid, but after i started my college i f
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my linkedin profile](https://linkedin.com/in/thejoaov)
-* 🚀  I'm currently working at [Avanade](https://www.google.com/search?client=safari&rls=en&q=avanade&ie=UTF-8&oe=UTF-8) as FrontEnd Consultant
+* 🚀  I'm currently working at [Avanade](https://www.google.com/search?client=safari&rls=en&q=avanade&ie=UTF-8&oe=UTF-8) as Front end Consultant
 * 📱 I'm the creator and mantainer of Gym Tracker, available on [Google Play](https://play.google.com/store/apps/details?id=com.thejoaov.gymtracker)
 * 🧠  I'm currently studying for Microsoft certifications and Android witg Kotlin
 * ⚡  I had bitten by a radioactive spider, and since then, my life changed a bit...
