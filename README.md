@@ -4,7 +4,7 @@ Hi 👋 My name is João Victor
 Mobile Front End Developer
 --------------------------
 
-I've been learning to code since i was a kid, but after i started my college i found a passion for front end development, and sice then, i started doing a lot of things with javascript, python and recently, typescript.
+I've been learning to code since i was a kid, but after i started my college i found a passion for front end development, and sice then, i started doing a lot of things with javascript, python and typescript.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my linkedin profile](https://linkedin.com/in/thejoaov)
