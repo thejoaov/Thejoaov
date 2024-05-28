@@ -1,9 +1,3 @@
-Hi 👋 i'm João Victor
-============================
-
-Senior Developer
---------------------------
-
 * Creator and mantainer of Gym Tracker, available on [Google Play](https://play.google.com/store/apps/details?id=com.thejoaov.gymtracker)
 * **Languages:** Javascript, Java, Python, Kotlin, Dart, Flutter, Ruby and Swift
 * **Frameworks:** React Native, React, Next.JS, Angular, Spring, Vue, Flutter, Android - Jetpack Compose, iOS - SwiftUI
