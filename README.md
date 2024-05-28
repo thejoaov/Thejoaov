@@ -1,6 +1,6 @@
 * Creator and mantainer of Gym Tracker, available on [Google Play](https://play.google.com/store/apps/details?id=com.thejoaov.gymtracker)
 * **Languages:** Javascript, Java, Python, Kotlin, Dart, Flutter, Ruby and Swift
-* **Frameworks:** React Native, React, Next.JS, Angular, Spring, Vue, Flutter, Android - Jetpack Compose, iOS - SwiftUI
+* **Frameworks:** React Native, React, Expo, Electron, Next.JS, Angular, Spring, Vue, Flutter, Android - Jetpack Compose, iOS - SwiftUI
 * **Others:** CI/CD, Postgres, MongoDB, RealmDB, MS SQL, Bitbucket, Gitlab, Azure, Firebase, Supabase, NPM Package, React Native Library development
 
 <!-- If you came here you deserve this little easter egg: !--> 
