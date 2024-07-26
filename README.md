@@ -1,3 +1,5 @@
+<a href="https://thejoaov.github.io" target="_blank">My Portfolio</a>
+
 * Creator and mantainer of Gym Tracker, available on [Google Play](https://play.google.com/store/apps/details?id=com.thejoaov.gymtracker)
 * **Languages:** Javascript, Java, Python, Kotlin, Dart, Flutter, Ruby and Swift
 * **Frameworks:** React Native, React, Expo, Electron, Next.JS, Angular, Spring, Vue, Flutter, Android - Jetpack Compose, iOS - SwiftUI
